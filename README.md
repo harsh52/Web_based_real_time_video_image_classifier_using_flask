@@ -57,5 +57,3 @@ How to use img_vid_trainer: https://github.com/KarthikBalakrishnan11/Face_Recogn
 
 oencv: https://github.com/opencv/opencv/blob/master/data/haarcascades/haarcascade_frontalface_alt2.xml
 
-How to use img_vid_trainer: https://github.com/KarthikBalakrishnan11/Face_Recognition_FaceNet
-
