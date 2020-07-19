@@ -33,4 +33,7 @@ Don't Forget to star this repo if you find this helpfull.
 
 
 Credit:
+
 How to use img_vid_trainer: https://github.com/KarthikBalakrishnan11/Face_Recognition_FaceNet
+
+oencv: https://github.com/opencv/opencv/blob/master/data/haarcascades/haarcascade_frontalface_alt2.xml
