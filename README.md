@@ -19,7 +19,7 @@ Here are some screenshots
 
 
 
-This app is using facenet and mtcnn for face extraction from images ans videos and diaplay real time on web page.
+This app is using facenet and mtcnn for face extraction from images and videos and diaplay real time on web page.
 
 
 Required Files:
