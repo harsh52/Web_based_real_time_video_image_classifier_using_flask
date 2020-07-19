@@ -1,0 +1,14 @@
+<!Doctype html>
+<html>
+<head>
+	<meta charset="-UTF-8">
+	<title>Upload</title>
+</head>
+<body>
+    <h1>Image Classifier</h1>
+    <form id = "upload-form" action = "{{(url_for('upload'))}}" method="POST" enctype="multipart/form-data">
+    <input type="file" name="file" accept="image/*">
+    <input type="submit" value="send">
+    </form>
+</body>
+</html>

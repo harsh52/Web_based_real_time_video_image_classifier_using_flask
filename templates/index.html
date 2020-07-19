@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<meta charset="utf-8">
+	  <meta name="viewport" content="width=device-width, initial-scale=1">
+	  <link rel="stylesheet" href="css/style.css">
+	  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@300&display=swap" rel="stylesheet">
+	  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha256-eZrrJcwDc/3uDhsdt61sL2oOBY362qM3lon1gyExkL0=" crossorigin="anonymous" />
+	  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">
+	  
+	  <link rel= "stylesheet" type= "text/css" href= "{{ url_for('static',filename='css/style.css') }}">
+
+
+<!--
+I am looking for a job.
+kindly contact me if you want to help me.
+Thanks..
+-->
+
+</head>
+<body>
+
+<div class = "header" id = "topheader">
+	
+	<section class = "header-section">
+		<div class= "center-div">
+			<h1 class = "font-weight-bold">Developed by Harsh</h1>
+			<p>My Vision is to develop great products and add value to people's lives through technology.</p>
+			<div class = "header-buttons">
+				<a href="{{ url_for('.video_redirect', _anchor='video_location') }}" >classify_Video</a>
+				<a href="{{ url_for('.image_redirect', _anchor='image_location') }}">Classify_image</a>	
+			</div>		
+		</div>
+	</section>
+</div>
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"></script>
+</body>
+</html>
