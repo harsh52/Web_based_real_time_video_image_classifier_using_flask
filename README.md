@@ -50,7 +50,7 @@ Bonus tips:
 Don't Forget to star this repo if you find this helpfull.
 
 
-Credit:
+Reference:
 
 
 How to use img_vid_trainer: https://github.com/KarthikBalakrishnan11/Face_Recognition_FaceNet
