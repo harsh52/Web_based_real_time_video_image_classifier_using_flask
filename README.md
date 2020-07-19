@@ -34,7 +34,11 @@ First thing first:
 1) install required libraries.
 2) python main.py
 if you see this kind of screen on your terminal.
-add termainl_screenshot
+
+
+![Screenshot from 2020-07-20 02-47-20](https://user-images.githubusercontent.com/38341037/87886259-24f1e280-ca39-11ea-91b3-36e800fbc1de.png)
+
+
 Congrats!!
 you are ready to go
 Enjoy:)
