@@ -9,7 +9,7 @@ MarkupSafe==1.1.1
 numpy==1.16.4
 oauthlib==3.1.0
 opencv-contrib-python==4.1.0.25
-opencv-python==4.1.0.25
+opencv-python==4.2.0.32
 Pillow==6.0.0
 sqlparse==0.3.1
 tensorboard==2.2.2
