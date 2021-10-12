@@ -8,7 +8,7 @@ Markdown==3.2.2
 MarkupSafe==1.1.1
 numpy==1.16.4
 oauthlib==3.1.0
-opencv-contrib-python==4.1.0.25
+opencv-contrib-python==4.1.1.26
 opencv-python==4.1.0.25
 Pillow==6.0.0
 sqlparse==0.3.1
